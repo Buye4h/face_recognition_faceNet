@@ -1,1 +1,1 @@
-Download model  httpswww.mediafire.comfilej1m8sz2uqaokgk320180402-114759.zipfile
+Download model  https://www.mediafire.com/file/j1m8sz2uqaokgk3/20180402-114759.zip/file
