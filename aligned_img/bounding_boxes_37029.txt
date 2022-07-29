@@ -1,0 +1,8 @@
+./aligned_img\Rose\1.png 176 139 763 968
+./aligned_img\Rose\2.png 97 103 354 441
+./aligned_img\Rose\3.png 66 82 255 349
+./aligned_img\Rose\4.png 68 50 260 302
+./aligned_img\Rose\5.png 167 135 357 406
+./aligned_img\Rose\6.png 72 21 282 295
+./aligned_img\Rose\7.png 227 28 712 722
+./aligned_img\Rose\8.png 770 284 1249 947

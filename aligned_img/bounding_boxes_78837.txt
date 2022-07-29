@@ -1,0 +1,7 @@
+./aligned_img\Jennie\1.png 229 115 435 393
+./aligned_img\Jennie\2.png 280 192 561 584
+./aligned_img\Jennie\3.png 224 99 723 767
+./aligned_img\Jennie\4.png 263 190 578 579
+./aligned_img\Jennie\5.png 143 84 369 400
+./aligned_img\Jennie\6.png 430 144 866 729
+./aligned_img\Jennie\7.png 224 13 640 579
